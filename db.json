@@ -9,7 +9,7 @@
     "rating": {
     "rate": 3.9,
     "count": 120
-    }
+    },"qty": 1
     },
     {
     "id": 2,
@@ -21,7 +21,7 @@
     "rating": {
     "rate": 3.9,
     "count": 120
-    }
+    },"qty": 1
     },
     {
     "id": 3,
@@ -33,7 +33,7 @@
     "rating": {
     "rate": 3.9,
     "count": 70
-    }
+    },"qty": 1
     },
     {
     "id": 4,
@@ -45,7 +45,7 @@
     "rating": {
     "rate": 4.3,
     "count": 40
-    }
+    },"qty": 1
     },
     {
     "id": 5,
@@ -57,7 +57,7 @@
     "rating": {
     "rate": 4.9,
     "count": 20
-    }
+    },"qty": 1
     },
     {
         "id": 6,
@@ -69,7 +69,7 @@
         "rating": {
         "rate": 4.1,
         "count": 110
-        }
+        },"qty": 1
         },
         {
         "id": 7,
@@ -81,7 +81,7 @@
         "rating": {
         "rate": 4.2,
         "count": 230
-        }
+        },"qty": 1
         },
         {
         "id": 8,
@@ -93,7 +93,7 @@
         "rating": {
         "rate": 4.2,
         "count": 320
-        }
+        },"qty": 1
         },
         {
         "id": 9,
@@ -105,7 +105,7 @@
         "rating": {
         "rate": 4.4,
         "count": 220
-        }
+        },"qty": 1
         },
         {
         "id": 10,
@@ -117,7 +117,7 @@
         "rating": {
         "rate": 4.1,
         "count": 450
-        }
+        },"qty": 1
         },
         {
         "id": 11,
@@ -129,7 +129,7 @@
         "rating": {
         "rate": 4.1,
         "count": 450
-        }
+        },"qty": 1
         },
         {
         "id": 12,
@@ -141,7 +141,7 @@
         "rating": {
         "rate": 4.2,
         "count": 350
-        }
+        },"qty": 1
         },
         {
         "id": 13,
@@ -153,7 +153,7 @@
         "rating": {
         "rate": 4.0,
         "count": 275
-        }
+        },"qty": 1
         },
         {
         "id": 14,
@@ -165,7 +165,7 @@
         "rating": {
         "rate": 4.0,
         "count": 275
-        }
+        },"qty": 1
         },
         {
         "id": 15,
@@ -177,7 +177,7 @@
         "rating": {
         "rate": 4.2,
         "count": 225
-        }
+        },"qty": 1
         },
         {
         "id": 16,
@@ -189,7 +189,7 @@
         "rating": {
         "rate": 4.2,
         "count": 225
-        }
+        },"qty": 1
         },
         {
         "id": 17,
@@ -201,7 +201,7 @@
         "rating": {
         "rate": 4.1,
         "count": 205
-        }
+        },"qty": 1
         },
         {
         "id": 18,
@@ -213,7 +213,7 @@
         "rating": {
         "rate": 4.3,
         "count": 230
-        }
+        },"qty": 1
         },
         {
         "id": 19,
@@ -225,7 +225,7 @@
         "rating": {
         "rate": 2.9,
         "count": 70
-        }
+        },"qty": 1
         
       },{
         "id": 20,
@@ -237,7 +237,7 @@
         "rating": {
         "rate": 3.9,
         "count": 70
-        }
+        },"qty": 1
     },{      
     "id": 21,
         "title": "ALLDOCUBE iWork  laptop",
@@ -248,7 +248,7 @@
         "rating": {
         "rate": 4.5 ,
         "count": 120
-        }
+        },"qty": 1
     },{
         "id": 22,
             "title": "ALLDOCUBE KNote X Pro  ",
@@ -259,7 +259,7 @@
             "rating": {
             "rate": 4.0 ,
             "count": 50
-            }
+            },"qty": 1
     },
     {
         "id": 23,
@@ -271,7 +271,7 @@
             "rating": {
             "rate": 4.5 ,
             "count": 100
-            }
+            },"qty": 1
     },
     {
         "id": 24,
@@ -283,7 +283,7 @@
             "rating": {
             "rate": 4.9 ,
             "count": 10
-            }
+            },"qty": 1
     },{
         "id": 25,
             "title": "BMAX Y11 Plus 2-in-1  ",
@@ -294,7 +294,7 @@
             "rating": {
             "rate": 4.5 ,
             "count": 120
-            }
+            },"qty": 1
     }
     ,{
         "id": 26,
@@ -306,7 +306,7 @@
             "rating": {
             "rate": 4.2 ,
             "count": 25
-            }
+            },"qty": 1
     },
     {
         "id": 27,
@@ -318,7 +318,7 @@
             "rating": {
             "rate": 3.2 ,
             "count": 83
-            }
+            },"qty": 1
     },
     {
         "id": 28,
@@ -330,7 +330,7 @@
             "rating": {
             "rate": 2.2 ,
             "count": 33
-            }
+            },"qty": 1
     },
     {
         "id": 29,
@@ -342,7 +342,7 @@
             "rating": {
             "rate": 2.5 ,
             "count": 63
-            }
+            },"qty": 1
     },{
         "id": 30,
             "title": "N-one NPad Air  ",
@@ -353,7 +353,7 @@
             "rating": {
             "rate": 4.5 ,
             "count": 10
-            }
+            },"qty": 1
     },{
         "id": 31,
             "title": "N-one NPad Plus ",
@@ -364,7 +364,7 @@
             "rating": {
             "rate": 5.0 ,
             "count": 10
-            }
+            },"qty": 1
     },{
         "id": 32,
             "title": "6809A Crystal Decorated Fashionable  ",
@@ -375,7 +375,7 @@
             "rating": {
             "rate": 2.0 ,
             "count": 50
-            }
+            },"qty": 1
     },{
         "id": 33,
             "title": "Zeblaze Btalk 2 ",
@@ -386,7 +386,7 @@
             "rating": {
             "rate": 4.0 ,
             "count": 120
-            }
+            },"qty": 1
     },{
         "id": 34,
             "title": "SENBONO MAX9  1.32",
@@ -397,7 +397,7 @@
             "rating": {
             "rate": 4.6 ,
             "count": 190
-            }
+            },"qty": 1
     },{
         "id": 35,
             "title": "SENBONO L32 1.83",
@@ -408,7 +408,7 @@
             "rating": {
             "rate": 3.6 ,
             "count": 20
-            }
+            },"qty": 1
         },{
             "id": 36,
                 "title": "Q26 Pro  1.83",
@@ -419,7 +419,7 @@
                 "rating": {
                 "rate": 4.6 ,
                 "count": 90
-                }
+                },"qty": 1
             }
 
 ] }
